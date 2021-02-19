@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #494949;
+}
+.sidebar {
+    background-color: #6d6d6d;
+    color: rgb(160, 139, 139);
+}
+body {
+    background-color: rgb(237, 237, 237);
+}
+[b] {
+    color: black;
+}
+[b]:hover {
+    color: black;
+}
+.file {
+    background-color: #05050593;
+    color: white;
+    text-align: center;
+}
+[head]{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.dd-btn {
+    padding: 15px;
+    text-align: center;
+    background: #1a1a1a;
+    border: none;
+    width: 300px;
+    color: #f8f9f9;
+}
+
+.hover:hover {
+    background-color: #545a61;
+}
